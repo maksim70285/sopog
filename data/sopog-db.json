@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "user_fwd8bydmtbkdzbz",
+      "login": "1",
+      "passwordHash": "$2b$10$XTrKoCr/3wHciALKiwCSDOT2ysbLDfw2nHz8JvcJ461a7CudY5Vdi",
+      "isArtist": true,
+      "createdAt": "2026-08-27T13:34:30.431Z",
+      "artistId": "artist_tal5cdg"
+    }
+  ],
+  "artists": [
+    {
+      "id": "artist_tal5cdg",
+      "userId": "user_fwd8bydmtbkdzbz",
+      "pseudonym": "Нокс",
+      "avatarUrl": "/uploads/avatars/14877F10-8F6F-4202-995C-043FC5_1787837705204-736588.gif",
+      "bio": "Дрэм",
+      "createdAt": "2026-08-27T13:35:05.208Z"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "track_kvvtathmtblbzr3",
+      "artistId": "artist_tal5cdg",
+      "userId": "user_fwd8bydmtbkdzbz",
+      "title": "Ватафак",
+      "pseudonym": "Нокс",
+      "description": "Рррн",
+      "audioUrl": "/uploads/audio/A_THMA_BOYS____________________1787839257247-730635.mp3",
+      "coverUrl": "/uploads/covers/IMG_5650_1787839257274-435459.png",
+      "duration": 180,
+      "playsCount": 0,
+      "genre": "Инди",
+      "createdAt": "2026-08-27T14:00:57.279Z",
+      "updatedAt": "2026-08-27T14:00:57.279Z"
+    },
+    {
+      "id": "track_8j4c2z8mtbkgpcn",
+      "artistId": "artist_tal5cdg",
+      "userId": "user_fwd8bydmtbkdzbz",
+      "title": "Слёзы",
+      "pseudonym": "Нокс",
+      "description": "Слушайте :)",
+      "audioUrl": "/uploads/audio/_______________________________1787837797433-965828.mp3",
+      "coverUrl": "/uploads/covers/IMG_5490_1787837797461-47421.jpeg",
+      "duration": 180,
+      "playsCount": 0,
+      "genre": "Хип-хоп",
+      "createdAt": "2026-08-27T13:36:37.463Z",
+      "updatedAt": "2026-08-27T13:36:37.463Z"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl_lhrzzftmtbkhwie",
+      "userId": "user_fwd8bydmtbkdzbz",
+      "title": "О",
+      "description": "",
+      "trackIds": [
+        "track_8j4c2z8mtbkgpcn",
+        "track_kvvtathmtblbzr3"
+      ],
+      "createdAt": "2026-08-27T13:37:33.398Z",
+      "updatedAt": "2026-08-27T14:10:59.439Z"
+    }
+  ]
+}

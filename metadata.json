@@ -1,0 +1,6 @@
+{
+  "name": "sopog",
+  "description": "Музыкальная платформа для слушателей и независимых музыкантов: каталог, артисты, релизы, плеер и плейлисты",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
